@@ -1,0 +1,20 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Build directories
+/bin/
+/target/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Application secrets
+application.properties
+application.yml
+.env
